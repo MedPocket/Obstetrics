@@ -1,5 +1,5 @@
 # OBSTETRICS
-The document repository is written by **MedPocket** about *Obstetrics*.
+The document repository is collected by **MedPocket** about *Obstetrics*.
 
 ## License
 Copyright &copy; **MedPocket**. All rights reserved.
